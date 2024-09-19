@@ -1,7 +1,7 @@
 # 🦾 Prosthetic Hand Control
 
 ## 🔍 Problem
-Can a prosthetic hand be controlled without relying on external physical objects? 
+Can Prosthetic Hand be controlled without relying on external physical objects? 
 
 ## 💡 Solution
 This challenge can be addressed using Electromyography (EMG) muscle sensors. These sensors detect the electrical activity produced by muscles, allowing the prosthetic hand to be controlled directly by the user's muscle movements, providing a more intuitive and seamless control mechanism.
