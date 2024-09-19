@@ -18,7 +18,7 @@ This challenge can be addressed using Electromyography (EMG) muscle sensors. The
 *Description: The circuit diagram shows the connection between the sensor kit and the prosthetic hand.*
 
 ### Arduino Code
-The complete Arduino code for controlling the prosthetic hand based on EMG signals is available. You can view the code [**here**](path/to/arduino-code).
+The complete Arduino code for controlling the prosthetic hand based on EMG signals is available. 
 
 
 
